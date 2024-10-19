@@ -1,0 +1,67 @@
+export const TeamData = [
+    {
+        image: '/team-1.jpg',
+        name: 'Jessica Doe',
+        title: 'Head of Marketing',
+        facebook: 'https://www.linkedin.com/in/jessica-doe',
+        twitter: 'https://www.linkedin.com/in/jessica-doe',
+        dribbble: 'https://www.dribbble.com/in/jessica-doe',
+    },
+    {
+        image: '/team-2.jpg',
+        name: 'Jessica Doe',
+        title: 'Head of Marketing',
+        facebook: 'https://www.linkedin.com/in/jessica-doe',
+        twitter: 'https://www.linkedin.com/in/jessica-doe',
+        dribbble: 'https://www.dribbble.com/in/jessica-doe',
+    },
+    {
+        image: '/team-3.jpg',
+        name: 'Jessica Doe',
+        title: 'Head of Marketing',
+        facebook: 'https://www.linkedin.com/in/jessica-doe',
+        twitter: 'https://www.linkedin.com/in/jessica-doe',
+        dribbble: 'https://www.dribbble.com/in/jessica-doe',
+    },
+    {
+        image: '/team-4.jpg',
+        name: 'Jessica Doe',
+        title: 'Head of Marketing',
+        facebook: 'https://www.linkedin.com/in/jessica-doe',
+        twitter: 'https://www.linkedin.com/in/jessica-doe',
+        dribbble: 'https://www.dribbble.com/in/jessica-doe',
+    },
+    {
+        image: '/team-1.jpg',
+        name: 'Jessica Doe',
+        title: 'Head of Marketing',
+        facebook: 'https://www.linkedin.com/in/jessica-doe',
+        twitter: 'https://www.linkedin.com/in/jessica-doe',
+        dribbble: 'https://www.dribbble.com/in/jessica-doe',
+    },
+    {
+        image: '/team-2.jpg',
+        name: 'Jessica Doe',
+        title: 'Head of Marketing',
+        facebook: 'https://www.linkedin.com/in/jessica-doe',
+        twitter: 'https://www.linkedin.com/in/jessica-doe',
+        dribbble: 'https://www.dribbble.com/in/jessica-doe',
+    },
+    {
+        image: '/team-3.jpg',
+        name: 'Jessica Doe',
+        title: 'Head of Marketing',
+        facebook: 'https://www.linkedin.com/in/jessica-doe',
+        twitter: 'https://www.linkedin.com/in/jessica-doe',
+        dribbble: 'https://www.dribbble.com/in/jessica-doe',
+    },
+    {
+        image: '/team-4.jpg',
+        name: 'Jessica Doe',
+        title: 'Head of Marketing',
+        facebook: 'https://www.linkedin.com/in/jessica-doe',
+        twitter: 'https://www.linkedin.com/in/jessica-doe',
+        dribbble: 'https://www.dribbble.com/in/jessica-doe',
+    }
+
+]
